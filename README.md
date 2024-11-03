@@ -1,4 +1,4 @@
-/# Calculadora em React
+# Calculadora em React
 
 Bem-vindo ao projeto **Calculadora em React**! Esta é uma calculadora simples, mas funcional, desenvolvida com React e Styled Components. O objetivo deste projeto é fornecer uma interface de usuário intuitiva e estilizada, permitindo que os usuários realizem operações matemáticas básicas de forma rápida e fácil.
 
