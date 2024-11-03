@@ -19,14 +19,6 @@ Bem-vindo ao projeto **Calculadora em React**! Esta é uma calculadora simples, 
 - [Styled Components](https://styled-components.com/) - Biblioteca para estilização de componentes em React.
 - [npm](https://www.npmjs.com/) - Gerenciador de pacotes para bibliotecas JavaScript.
 
-## Instalação
-
-Para executar este projeto localmente, siga os passos abaixo:
-
-1. **Clone o repositório:**
-
-   ```bash
-   git clone https://github.com/Caaio-Martins/trilha-react-desafio01-calculadora.git
 
 
 
